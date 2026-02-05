@@ -203,7 +203,7 @@ export const SkillsInfo = [
       id: 5,
       title: "Gemini Clone",
       description:
-        " This project represent the interface of the gemini AI which is built using React, JavaScript, HTML/CSS,and it is connected through the Grmni API to reply for realtime chating. ",
+        " This project represent the interface of the gemini AI which is built using React, JavaScript, HTML/CSS,and it is connected through the Gemini API to reply for realtime chating. ",
        image: gemini,
         tags: ["React JS", "TMDB API", "HTML", "CSS", "JavaScript"],
        github: "https://github.com/Vivek-KA/Gemini-Clone",
