@@ -38,7 +38,7 @@ import kodnestLogo from './assets/company_logo/kodnest_logo.png';
 
 // Education Section Logo's
 import revaLogo from './assets/education_logo/revalogo.jpg';
-import bgs from './assets/education_logo/bgs.png';
+import bgs from './assets/education_logo/bgas.png';
 import ppec from './assets/education_logo/ppec logo.png';
 
 // Project Section Logo's
