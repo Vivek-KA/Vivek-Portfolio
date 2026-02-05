@@ -39,12 +39,12 @@ import kodnestLogo from './assets/company_logo/kodnest_logo.png';
 // Education Section Logo's
 import revaLogo from './assets/education_logo/revalogo.jpg';
 import bgs from './assets/education_logo/bgs.png';
-import Ppec from './assets/education_logo/Ppec logo.png';
+import ppec from './assets/education_logo/ppec logo.png';
 
 // Project Section Logo's
-import Agri from './assets/work_logo/Agri.png';
-import Gemini from './assets/work_logo/Gemini .png';
-import movierecLogo from './assets/work_logo/Netflix.png';
+import agri from './assets/work_logo/agri.png';
+import gemini from './assets/work_logo/gemini .png';
+import movierecLogo from './assets/work_logo/netflix.png';
 import weatherLogo from './assets/work_logo/weather.png';
 import portfolio from './assets/work_logo/myprotfolio.png';
 import imagesearchLogo from './assets/work_logo/Image-search.png';
@@ -133,7 +133,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: Ppec,
+      img: ppec,
       school: "Poorna Prajna Education center, Chikkamagaluru",
       date: "Apr-2019",
       grade: "89.76%",
@@ -171,7 +171,7 @@ export const SkillsInfo = [
       title: "Agriculture Equipment Rental system",
       description:
         "Personal Team Project Worked effectively in a team to build a rental price prediction system utilizing XGBoost, where I contributed to both the machine learning pipeline and front-end development. Processed and analyzed .csv datasets to train the model, resulting in improved accessibility and cost savings for farmers.",
-      image: Agri,
+      image: agri,
       tags: ["HTML", "CSS", "JavaScript", "Python", "XGBoost", "Machine Learning"],
       github: "https://github.com/Vivek-KA/Agriculture-Equipment-Rental-System",
       // webapp: "https://githubprofiledetective.netlify.app/",
@@ -203,7 +203,7 @@ export const SkillsInfo = [
       title: "Gemini Clone",
       description:
         " This project represent the interface of the gemini AI which is built using React, JavaScript, HTML/CSS,and it is connected through the Grmni API to reply for realtime chating. ",
-       image: Gemini,
+       image: gemini,
         tags: ["React JS", "TMDB API", "HTML", "CSS", "JavaScript"],
        github: "https://github.com/Vivek-KA/Gemini-Clone",
       // webapp: "https://csprep.netlify.app/",
