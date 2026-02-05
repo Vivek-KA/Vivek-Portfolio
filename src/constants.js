@@ -130,6 +130,7 @@ export const SkillsInfo = [
       date: "July 2021",
       grade: "86.16%",
      desc : "I completed my class 12 education from BGS PU College Chikkamagaluru, under the State board, where I studied Physics, Chemistry, Mathematics and Computer Science.",      degree: "Bachelor of Science - BSC (Computer Science)",
+     degree: "Pre-University Course - PUC (PCMC)",
     },
     {
       id: 2,
@@ -137,8 +138,8 @@ export const SkillsInfo = [
       school: "Poorna Prajna Education center, Chikkamagaluru",
       date: "Apr-2019",
       grade: "89.76%",
-     desc : "I completed my class 10 education from Poorna Prajna Education center, Chikkamagaluru, under the State board.",      degree: "CBSE(XII) - PCM with Computer Science",
-    },
+     desc : "I completed my class 10 education from Poorna Prajna Education center, Chikkamagaluru, under the State board.",     
+    degree: "Secondary School Leaving Certificate - SSLC",},
     
   ];
   
