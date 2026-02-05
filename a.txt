@@ -1,0 +1,32 @@
+
+
+ desc: I completed my Bachelor's degree in Computer Science and Information Technology 
+from Reva University, Bengaluru. 
+Throughout my studies, I was immersed in a variety of subjects that
+ deepened my understanding of computing and technology. 
+From exploring Data Structures and Algorithms to diving into Web Development
+ and Database Management Systems, I gained practical insights into the world
+ of software development. My time at Reva University
+ allowed me to work on projects that applied theoretical concepts to real-world 
+problems.
+
+
+desc : I completed my class 12 education from BGS PU College Chikkamagaluru, under the State board, where I studied Physics, Chemistry, Mathematics and Computer.
+
+I completed my class 10 education from Poorna Prajna Education center, Chikkamagaluru, under the State board.
+
+"Created a Netflix-inspired streaming platform website with advanced functionalities using HTML,CSS, and JavaScript. Engineered core features like video streaming, user authentication, and content recommendation algorithms, ensuring responsive interface across devices and mirroring the professional quality seen in leading entertainment applications",
+
+" This project represent the interface of the gemini AI which is built using React, JavaScript, HTML/CSS,and it is connected through the Grmni API to reply for realtime chating. "
+
+"A simple and elegant weather application that shows current weather conditions for any city. Built with HTML, CSS, and JavaScript using the OpenWeatherMap API."
+
+" A simple and responsive Image Search Website built using HTML, CSS, and JavaScript, powered by the Unsplash API. Users can search for images by keyword and view high-quality photos dynamically loaded from Unsplash.",
+
+" 
+This is my personal portfolio website designed to showcase my skills, projects, and experience as a web developer. The portfolio features a modern, clean, and responsive user interface with smooth navigation and visually appealing layouts. It is built to provide a clear overview of my technical expertise, problem-solving abilities, and hands-on project experience. ",
+
+
+desc: " Gained practical exposure during internship at KodNest by working on real projects utilizing Java, MySQL, Frontend Technology, and Manual Testing. Learned from industry experts, improving coding, database management, and software quality assurance skills while adapting to professional software development standards.",
+
+
