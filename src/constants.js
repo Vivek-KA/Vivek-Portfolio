@@ -43,11 +43,11 @@ import ppec from './assets/education_logo/ppeclogo.png';
 
 // Project Section Logo's
 import agri from './assets/work_logo/agri.png';
-import gemini from './assets/work_logo/gemini .png';
+import gemini from './assets/work_logo/gemini.png';
 import movierecLogo from './assets/work_logo/netflix.png';
 import weatherLogo from './assets/work_logo/weather.png';
-import portfolio from './assets/work_logo/myprotfolio.png';
-import imagesearchLogo from './assets/work_logo/Image-search.png';
+import portfolio from './assets/work_logo/myportfolio.png';
+import imagesearchLogo from './assets/work_logo/imagesearch.png';
 
 
 
